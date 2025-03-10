@@ -111,4 +111,5 @@ const styles = StyleSheet.create({
   },
 });
 
+// this project is for post
 export default PinInput;
